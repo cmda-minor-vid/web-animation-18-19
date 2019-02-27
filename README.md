@@ -83,6 +83,11 @@ The below table breaks down the general time needed per week.
 | 2    |  9:20h | animations       | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
 | 3    |  9:20h | svg              | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
 
+<details>
+    <summary>Schedule</summary>
+    <img src="assets/schedule.png" alt="Minor ViD schedule overview">
+</details>
+
 ## Grade
 
 | Task                                |   Weight |
