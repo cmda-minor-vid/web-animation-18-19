@@ -16,7 +16,8 @@
 The course **Web Animation** is given at [**@CMDA**][cmda] in 2019 between
 6 May and 24 May.
 
-*   **Course**: Web Animation - Minor ViD
+*   **Course**: Web Animation
+*   **Minor**: [Visual Interface Design][minor] (*login required)
 *   **Coordinator**: [Danny de Vries][dangit]
 *   **Lecturers**:
     [Danny de Vries][dangit] ([**@dandevri**][danweb]) (_vid-1_ and _vid-2_)
@@ -29,7 +30,9 @@ The course **Web Animation** is given at [**@CMDA**][cmda] in 2019 between
 *   **Entry requirements**: Admission
 
 ## Description
-In Web Animation we'll create a prototype that heavily focusses on interactivity and animations using _CSS animations_, _CSS transitions_ and _SVG_. Instead of static design and prototyping tools we'll work straight into the browser using in-browser (dev)tools. This course is part of the **Minor Visual (Interface) Design** before **Ontwerpen 3** alongside **Web Typography**, together making up **Visual Interface Design 2**. In _ontwerpen 3_  you’ll apply your newfound web skills.
+In Web Animation we'll create a prototype that heavily focusses on interactivity and animations using _CSS animations_, _CSS transitions_ and _SVG_. Instead of static design and prototyping tools we'll work straight into the browser using in-browser (dev)tools. 
+
+This course is part of the **Minor Visual (Interface) Design** before **Ontwerpen 3** alongside **Web Typography**, together making up **Visual Interface Design 2**. In _ontwerpen 3_  you’ll apply your newfound web skills. We build further on knowledge acquired in _Internetstandaarden_, _Inleiding Programmeren_, and _Blok Web_. 
 
 ## Communication
 
@@ -51,9 +54,9 @@ If you have questions:
 
 The main goals in this course are that you’re able to:
 
-*   You can create different CSS3 `states`, `transitions` and `animations` to enhance your static design
-*   You can tweak and adjust your prototype with `in-browser tooling` (devtools)
-*   You can create and animate `.SVG`
+*   create different CSS3 `states`, `transitions` and `animations` to enhance your static design
+*   tweak and adjust your prototype with `in-browser tooling` (devtools)
+*   understand, create and animate `.SVG`
 
 #### Sub goals
 
@@ -92,20 +95,17 @@ The below table breaks down the general time needed per week.
 
 | Task                                |   Weight |
 | ----------------------------------  | -------: |
-| [Assignment 1][grading]             |      25% |
-| [Assignment 2][grading]             |      25% |
-| [Assignment 3][grading]             |      25% |
-| [Oral test][grading] (oral test)    |      25% |
+| [Prototype ][grading] (oral test)   |     100% |
 | **Total**                           | **100%** |
 
 
 ```js
-if (!a1 && !a2 && !a3 && !a4) {
+if (!prototype) {
   grade = 'GR'
-} else if (a1 < 5.5 || a2 < 5.5 || a3 < 5.5 || a4 < 5.5) {
+} else if (prototype < 5.5) {
   grade = 1
 } else {
-  grade = (a1 * 0.25) + (a2 * 0.25) + (a3 * 0.25) + (a4 * 0.25)
+  grade = (prototype > 5.5)
 }
 ```
 
@@ -130,6 +130,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [`MIT`][license] © [Danny de Vries][dangit], docs and images are [CC-BY-4.0][].
 
 [banner]: https://cmda-minor-vid.github.io/web-animation-18-19/assets/banner.svg
+[minor]: https://minoren.mijnhva.nl/Paginas/Vormgeving.aspx?wid=WebPartWPQ2&ft=visual%20inter
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
 [danweb]: https://github.com/dandevri
