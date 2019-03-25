@@ -34,6 +34,10 @@ In Web Animation we'll create a prototype that heavily focusses on interactivity
 
 This course is part of the **Minor Visual (Interface) Design** before **Ontwerpen 3** alongside **Web Typography**, together making up **Visual Interface Design 2**. In _ontwerpen 3_  you’ll apply your newfound web skills. We build further on knowledge acquired in _Internetstandaarden_, _Inleiding Programmeren_, and _Blok Web_. 
 
+### Assignment
+
+Pick a piece of artwork from the _graphic design archive_ and translate that to the web. What happens when people hover over certain elements with their mouse? What if they press keys on their keyboard? How does it behave on different screen sizes? First try to re-create it with web technologies, then add interactivity and maybe you can even enhance the artwork with elements in the same graphical style.
+
 ## Communication
 
 *   [GitHub][gh] — Main source of information, assignments, important dates,
