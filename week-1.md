@@ -47,4 +47,4 @@ Build your artwork inside the browser.
 [inspiration-author]: https://twitter.com/jensimmons
 [theory-transforms]: https://learn.shayhowe.com/advanced-html-css/css-transforms/
 [theory-svg]: https://www.sarasoueidan.com/tags/svg/
-[slides-lecture]: #
+[slides-lecture]: https://docs.google.com/presentation/d/1VKcjJvkK36oRYdg0qjeyKFFZ-bxgzYAF74BumABK9D8/edit?usp=sharing

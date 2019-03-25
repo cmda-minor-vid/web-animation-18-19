@@ -47,4 +47,4 @@ Your artwork should change based on input from the user.
 [inspiration-author]: https://twitter.com/donovanh
 [theory-animate]: https://cssanimation.rocks/why-animate/
 [theory-transition]: https://cssanimation.rocks/transition-vs-animation/
-[slides-lecture]: #
+[slides-lecture]: https://docs.google.com/presentation/d/1omOAhcSYu-6LnS0EuP3soIYzFFxXc-hVRplX3fa201M/edit?usp=sharing

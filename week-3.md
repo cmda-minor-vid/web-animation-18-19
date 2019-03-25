@@ -37,4 +37,4 @@
 [inspiration-cover]: /assets/inspiration-codrops.png
 [inspiration-link]: https://tympanus.net/codrops/
 [inspiration-author]: https://twitter.com/crnacura
-[slides-lecture]: #
+[slides-lecture]: https://docs.google.com/presentation/d/10zw6vMl0MmQyaG4js0RfYnj3lTo8YgevcRbXvT13f_M/edit?usp=sharing
