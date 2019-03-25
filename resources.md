@@ -31,8 +31,22 @@
     (**articles**) — CSS animation articles, tips and tutorials. 
 *   🆓 [CSS Tricks](https://css-tricks.com/)
     (**blog**) — CSS Tricks
+*   🆓 [CSS Almanac](https://css-tricks.com/almanac/)
+    (**blog**) — CSS Almanac
 
 ## Additional resources
 *   Head, Val. _[Designing Interface Animation](https://rosenfeldmedia.com/books/designing-interface-animation/)_. Rosenfeld, 2016
+
+## Products
+* _Interactive Application_
+* _Prototype_
+* _Design Rationale_
+
+## Methods
+
+* [Pitch](http://www.cmdmethods.nl/cards/showroom/pitch)
+* [Prototype](http://www.cmdmethods.nl/cards/stepping-stones/prototype)
+* [Prototyping](http://www.cmdmethods.nl/cards/workshop/prototyping)
+* [Usability Testing](http://www.cmdmethods.nl/cards/lab/usability-testing)
 
 [banner]: https://cmda-minor-vid.github.io/web-animation-18-19/assets/banner-resources.svg

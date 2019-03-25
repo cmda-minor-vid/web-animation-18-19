@@ -10,9 +10,9 @@
 ## Test (oral)
 You've worked iteratively (_formative_) on your product and finish with an oral test (_summative_) where you **present** your final project. You will show you can create a quality project in which you apply the subject matter of this course and that you understand it. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals. This is an individual project so oral tests will be conducted 1 on 1.
 
-* [Learning goals](/readme#goals)
-* [Subgoals](/readme#goals)
-* [Competences](/readme#goals)
+* [Learning goals](/#goals)
+* [Subgoals](/#goals)
+* [Competences](/#goals)
 
 > Check [rooster.hva.nl](https://rooster.hva.nl/) for info on actual date, time, and place.
 
