@@ -74,15 +74,15 @@ In practice you’ll learn to:
     Add interacitivity with CSS pseudo-classes ([**week 1**][w1]) 
 *  <a name="subgoal-3"></a>
     Tweak designs with in-browser devtools ([**week 1**][w1])
-*  <a name="subgoal-3"></a>
-    Work with the box model ([**week 1**][w1])
 *  <a name="subgoal-4"></a>
-    Animate using CSS animations([**week 2**][w2])
+    Work with the box model ([**week 1**][w1])
 *  <a name="subgoal-5"></a>
-    Use CSS transforms ([**week 2**][w2])
-* <a name="subgoal-6"></a>
+    Animate using CSS animations([**week 2**][w2])
+*  <a name="subgoal-6"></a>
+    Use CSS transforms ([**week 2**][w1])
+* <a name="subgoal-7"></a>
     Animate scalable vector graphics ([**week 3**][w3])    
-*  <a name="subgoal-7"></a>
+*  <a name="subgoal-8"></a>
     Use SVG filters ([**week 3**][w3])
 
 The below table breaks down the general time needed per week.
@@ -90,9 +90,9 @@ The below table breaks down the general time needed per week.
 | Week | Effort | Topic            | Activities                                             |
 | ---- | -----: | ---------------- | ------------------------------------------------------ |
 | 0    |  NaN   | getting started  | [getting started][gs]                                  |
-| 1    |  9:20h | transitions      | [lab][w1lab], [lecture][w1lec], [assignments][w1a]     |
-| 2    |  9:20h | animations       | [lab][w2lab], [lecture][w2lec], [assignments][w2a]     |
-| 3    |  9:20h | svg              | [lab][w3lab], [lecture][w3lec], [assignments][w3a]     |
+| 1    |  9:20h | transitions      | [lab][w1lab], [lecture][w1lec]                         |
+| 2    |  9:20h | animations       | [lab][w2lab], [lecture][w2lec]                         |
+| 3    |  9:20h | svg              | [lab][w3lab], [lecture][w3lec]                         |
 
 <details>
     <summary>Schedule</summary>
@@ -172,7 +172,3 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [w1lab]: week-1.md#lab
 [w2lab]: week-2.md#lab
 [w3lab]: week-3.md#lab
-
-[w1a]: week-1.md#assignments
-[w2a]: week-2.md#assignments
-[w3a]: week-3.md#assignments

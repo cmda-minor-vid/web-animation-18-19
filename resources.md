@@ -1,4 +1,4 @@
-# ![Resources][banner-resources]
+# ![Resources][banner]
 
 ## Resources used in previous courses
 *   Duckett, Jon. _JavaScript & jQuery_. John Wiley & Sons, 2015 (**inleiding programmeren**)
