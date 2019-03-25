@@ -52,11 +52,13 @@ If you have questions:
 
 #### Main goals
 
-The main goals in this course are that you’re able to:
+The main goals in this course:
 
-*   create different CSS3 `states`, `transitions` and `animations` to enhance your static design
-*   tweak and adjust your prototype with `in-browser tooling` (devtools)
-*   understand, create and animate `.SVG`
+*  You can create different CSS `transitions` and `animations` to add interactivity
+*  You can create different states with CSS `pseudo-classes` and `transforms`
+*  You can tweak and adjust your prototype with `in-browser tooling` (devtools)
+*  You can animate `.SVG` and know to create scalable graphics
+*  You can implement new `CSS3 features`
 
 #### Sub goals
 
@@ -65,9 +67,11 @@ In practice you’ll learn to:
 * <a name="subgoal-1"></a>
     Create states using transitions ([**week 1**][w1])
 *  <a name="subgoal-2"></a>
-    Add interacitivity with CSS pseudo-classes([**week 1**][w1]) 
+    Add interacitivity with CSS pseudo-classes ([**week 1**][w1]) 
 *  <a name="subgoal-3"></a>
-    Tweak designs with in-browser devtools([**week 1**][w1])
+    Tweak designs with in-browser devtools ([**week 1**][w1])
+*  <a name="subgoal-3"></a>
+    Work with the box model ([**week 1**][w1])
 *  <a name="subgoal-4"></a>
     Animate using CSS animations([**week 2**][w2])
 *  <a name="subgoal-5"></a>
