@@ -18,7 +18,8 @@ The course **Web Animation** is given at [**@CMDA**][cmda] in 2019 between
 
 *   **Course**: Web Animation
 *   **Minor**: [Visual Interface Design][minor] (*login required)
-*   **Coordinator**: [Danny de Vries][dangit]
+*   **Course Coordinator**: [Danny de Vries][dangit]
+*   **Minor Coordinators**: [Nicole Frank][minor-cor-1] and [Marjolijn Ruyg][minor-cor-2]
 *   **Lecturers**:
     [Danny de Vries][dangit] ([**@dandevri**][danweb]) (_vid-1_ and _vid-2_)
 *   **SIS**: HTML/CSS
@@ -30,9 +31,9 @@ The course **Web Animation** is given at [**@CMDA**][cmda] in 2019 between
 *   **Entry requirements**: Admission
 
 ## Description
-In Web Animation we'll create a prototype that heavily focusses on interactivity and animations using _CSS animations_, _CSS transitions_ and _SVG_. Instead of static design and prototyping tools we'll work straight into the browser using in-browser (dev)tools. 
+In Web Animation we'll create a prototype that heavily focusses on interactivity and animations using _CSS animations_, _CSS transitions_ and _SVG_. Instead of static design and prototyping tools we'll work straight into the browser using in-browser (dev)tools.
 
-This course is part of the **Minor Visual (Interface) Design** before **Ontwerpen 3** alongside **Web Typography**, together making up **Visual Interface Design 2**. In _ontwerpen 3_  you’ll apply your newfound web skills. We build further on knowledge acquired in _Internetstandaarden_, _Inleiding Programmeren_, and _Blok Web_. 
+This course is part of the **Minor Visual (Interface) Design** before **Ontwerpen 3** alongside **Web Typography**, together making up **Visual Interface Design 2**. In _ontwerpen 3_  you’ll apply your newfound web skills. We build further on knowledge acquired in _Internetstandaarden_, _Inleiding Programmeren_, and _Blok Web_.
 
 ### Assignment
 
@@ -71,7 +72,7 @@ In practice you’ll learn to:
 * <a name="subgoal-1"></a>
     Create states using transitions ([**week 1**][w1])
 *  <a name="subgoal-2"></a>
-    Add interacitivity with CSS pseudo-classes ([**week 1**][w1]) 
+    Add interacitivity with CSS pseudo-classes ([**week 1**][w1])
 *  <a name="subgoal-3"></a>
     Tweak designs with in-browser devtools ([**week 1**][w1])
 *  <a name="subgoal-4"></a>
@@ -81,7 +82,7 @@ In practice you’ll learn to:
 *  <a name="subgoal-6"></a>
     Use CSS transforms ([**week 2**][w1])
 * <a name="subgoal-7"></a>
-    Animate scalable vector graphics ([**week 3**][w3])    
+    Animate scalable vector graphics ([**week 3**][w3])
 *  <a name="subgoal-8"></a>
     Use SVG filters ([**week 3**][w3])
 
@@ -172,3 +173,6 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 [w1lab]: week-1.md#lab
 [w2lab]: week-2.md#lab
 [w3lab]: week-3.md#lab
+
+[minor-cor-1]: https://moodle.cmd.hva.nl/mod/data/view.php?d=7&perpage=100&search=nicole&sort=23&order=ASC&advanced=0&filter=1&f_23=&f_24=&f_25=&f_26=&f_27=
+[minor-cor-2]: https://moodle.cmd.hva.nl/mod/data/view.php?d=7&perpage=100&search=marjol&sort=23&order=ASC&advanced=0&filter=1&f_23=&f_24=&f_25=&f_26=&f_27=
