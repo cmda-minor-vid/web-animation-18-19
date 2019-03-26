@@ -25,7 +25,7 @@
 
 ### Steal like an artist
 
-> Recreate your chosen piece of artwork in the browser. 
+> Recreate your chosen piece of artwork in the browser.
 
 #### Synopsis
 
@@ -34,13 +34,19 @@
 *   **Due**: before _lecture 2_
 
 #### Description
-Build your artwork inside the browser. 
+Build your artwork inside the browser.
 
 * Start with an html breakdown, sketch out on paper. What html elements you need?
 * Do you need `SVGs` for certain elements?
 * What types of styling can you do with CSS?
 * How do you layout certain elements? Do you need to use `flexbox` or `css-grid`?
 * How does it need to look based on different screen sizes? Should it be `responsive`?
+
+#### Extra resources
+*   [**Layout Land**](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+*   [**CSS Grid Garden**](https://cssgridgarden.com/)
+*   [**Flexbox froggy**](https://flexboxfroggy.com/)
+*   [**CSS voor de dames**](https://sinds1971.nl/cssvoordedames/)
 
 [inspiration-cover]: /assets/inspiration-lab.png
 [inspiration-link]: https://labs.jensimmons.com/

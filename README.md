@@ -37,7 +37,7 @@ This course is part of the **Minor Visual (Interface) Design** before **Ontwerpe
 
 ### Assignment
 
-Pick a piece of artwork from the _graphic design archive_ and translate that to the web. What happens when people hover over certain elements with their mouse? What if they press keys on their keyboard? How does it behave on different screen sizes? First try to re-create it with web technologies, then add interactivity and maybe you can even enhance the artwork with elements in the same graphical style.
+Pick a piece of work from the [_Phaidon Archive of Graphic Design_](https://de.phaidon.com/store/design/the-phaidon-archive-of-graphic-design-9780714865591/) and translate that to the web. What happens when people hover over certain elements with their mouse? What if they press keys on their keyboard? How does it behave on different screen sizes? First try to re-create it with web technologies, then add interactivity and maybe you can even enhance the artwork with elements in the same graphical style.
 
 ## Communication
 
