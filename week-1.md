@@ -3,7 +3,8 @@
 ## Table of Contents
 
 *   [Inspiration](#inspiration)
-*   [Lecture](#slides)
+*   [Slides](#slides)
+*   [Theory](#theory)
 *   [Lab](#assignments)
 
 ## Inspiration
@@ -12,14 +13,15 @@
 
 > The Experimental Layout Lab by Jen Simmons by [**@jensimmons**][inspiration-author].
 
-## Lecture
-
-### Slides
+## Slides
 *  [**Lecture-1**][slides-lecture]
+*  [**Lab-1**][slides-lab]
 
-### Theory
+## Theory
 * [**Why do all the websites look the same? by Boris Müller.**](https://medium.com/s/story/on-the-visual-weariness-of-the-web-8af1c969ce73)
 * [**Frontend design by Brad Frost**](http://bradfrost.com/blog/post/frontend-design/)
+* [**The Great Divide by Chris Coyier**](https://css-tricks.com/the-great-divide/)
+* [**Devtools for Designers by Chris Coyier**](https://css-tricks.com/devtools-for-designers/)
 
 ## Lab
 
@@ -34,12 +36,11 @@
 *   **Due**: before _lecture 2_
 
 #### Description
-Build your artwork inside the browser.
+Build your artwork inside the browser. Start with an html breakdown, sketch out on paper. What html elements do you need? Then start creating a boilerplate inside of your github repository. What files do you need? Play around inside of the Developer Tools ([firefox](https://developer.mozilla.org/en-US/docs/Tools), [safari](https://support.apple.com/guide/safari/use-the-developer-tools-in-the-develop-menu-sfri20948/mac), [chrome](https://developers.google.com/web/tools/chrome-devtools/)) to tweak your design.
 
-* Start with an html breakdown, sketch out on paper. What html elements do you need?
 * Do you need `SVGs` for certain elements?
-* What types of styling can you do with CSS?
-* How do you layout certain elements? Do you need to use `flexbox` or `css-grid`?
+* What types of styling can you do with CSS? What `selectors` can you use?
+* How are you going to layout the page? Do you need to use `flexbox` or `css-grid`?
 * How does it need to look based on different screen sizes? Should it be `responsive`?
 
 #### Extra resources
@@ -65,3 +66,4 @@ Build your artwork inside the browser.
 [theory-flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 [theory-grid]: https://css-tricks.com/snippets/css/complete-guide-grid/
 [slides-lecture]: https://docs.google.com/presentation/d/1VKcjJvkK36oRYdg0qjeyKFFZ-bxgzYAF74BumABK9D8/edit?usp=sharing
+[slides-lab]: https://docs.google.com/presentation/d/1mLlXQWQUqPcvqMK8VKh7Ov38bxLd2JKEC1WgWi64Sbw/edit?usp=sharing
