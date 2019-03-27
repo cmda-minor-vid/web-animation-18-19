@@ -70,28 +70,32 @@ The main goals in this course:
 In practice you’ll learn to:
 
 * <a name="subgoal-1"></a>
-    Create states using transitions ([**week 1**][w1])
+    Layout and positioning with CSS ([**week 1**][w1])
 *  <a name="subgoal-2"></a>
-    Add interacitivity with CSS pseudo-classes ([**week 1**][w1])
+    Use CSS transforms ([**week 1**][w1])
 *  <a name="subgoal-3"></a>
     Tweak designs with in-browser devtools ([**week 1**][w1])
 *  <a name="subgoal-4"></a>
     Work with the box model ([**week 1**][w1])
 *  <a name="subgoal-5"></a>
-    Animate using CSS animations([**week 2**][w2])
+    Create states using transitions ([**week 2**][w2])
 *  <a name="subgoal-6"></a>
-    Use CSS transforms ([**week 2**][w1])
-* <a name="subgoal-7"></a>
-    Animate scalable vector graphics ([**week 3**][w3])
+    Animate using CSS animations([**week 2**][w2])
+*  <a name="subgoal-7"></a>
+    Principles of animation with easing ([**week 2**][w2])
 *  <a name="subgoal-8"></a>
-    Use SVG filters ([**week 3**][w3])
+    Add interacitivity with CSS pseudo-classes ([**week 2**][w2])
+* <a name="subgoal-9"></a>
+    Animate scalable vector graphics ([**week 3**][w3])
+* <a name="subgoal-10"></a>
+    Use new CSS features ([**week 3**][w3])
 
 The below table breaks down the general time needed per week.
 
 | Week | Effort | Topic            | Activities                                             |
 | ---- | -----: | ---------------- | ------------------------------------------------------ |
 | 0    |  NaN   | getting started  | [getting started][gs]                                  |
-| 1    |  9:20h | transitions      | [lab][w1lab], [lecture][w1lec]                         |
+| 1    |  9:20h | layout           | [lab][w1lab], [lecture][w1lec]                         |
 | 2    |  9:20h | animations       | [lab][w2lab], [lecture][w2lec]                         |
 | 3    |  9:20h | svg              | [lab][w3lab], [lecture][w3lec]                         |
 
