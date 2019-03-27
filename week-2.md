@@ -21,6 +21,7 @@
 ### Theory
 * [**CSSanimation.rocks - Why animate?**][theory-animate]
 * [**12 principles of animation by Alan Becker.**](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
+* [**Principles of User Interface Design by Joshua Porter,**](http://bokardo.com/principles-of-user-interface-design/)
 
 ## Lab
 
@@ -47,6 +48,10 @@ Your artwork should respond to input from the user. Use transitions, animation, 
 * [**CSSanimation.rocks - Animating pseudo-elements**][theory-pseudo]
 * [**Shay Howe - Transitions & Animations**][theory-animations]
 * [**Shay Howe - Complex Selectors**][theory-selectors]
+
+#### Playground
+* [**Animista.net**](http://animista.net/)
+* [**Animate.css**](https://daneden.github.io/animate.css/)
 
 
 [inspiration-cover]: /assets/inspiration-rocks.png

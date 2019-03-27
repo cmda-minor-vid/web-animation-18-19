@@ -49,6 +49,7 @@ Build your artwork inside the browser. Start with an html breakdown, sketch out 
 * [**MDN - SVG Tutorial**][theory-mdn]
 * [**CSS Tricks - Flexbox**][theory-flexbox]
 * [**CSS Tricks - Grid**][theory-grid]
+* [**Webflow University - Box Model**][wf-box]
 
 #### Playground
 *   [**Layout Land**](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
@@ -65,5 +66,6 @@ Build your artwork inside the browser. Start with an html breakdown, sketch out 
 [theory-mdn]: https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 [theory-flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 [theory-grid]: https://css-tricks.com/snippets/css/complete-guide-grid/
+[wf-box]: https://www.youtube.com/watch?v=MrAnu4zdjjY&list=PLPmnoMVpkxfiYN2cE4qY9G9gIkz8YDY-u&index=3
 [slides-lecture]: https://docs.google.com/presentation/d/1VKcjJvkK36oRYdg0qjeyKFFZ-bxgzYAF74BumABK9D8/edit?usp=sharing
 [slides-lab]: https://docs.google.com/presentation/d/1mLlXQWQUqPcvqMK8VKh7Ov38bxLd2JKEC1WgWi64Sbw/edit?usp=sharing
