@@ -1,9 +1,3 @@
----
-layout: default
-nav_order: 1
----
-
-
 ![Web Animationn - Course 2018-2019][banner]
 
 # Course

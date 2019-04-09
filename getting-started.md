@@ -1,9 +1,3 @@
----
-layout: default
-nav_order: 2
----
-
-
 ![Web animation - Getting Started][banner-guide]
 
 # Getting Started

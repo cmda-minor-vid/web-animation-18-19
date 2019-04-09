@@ -1,8 +1,3 @@
----
-layout: default
-nav_order: 5
----
-
 # Week 3
 
 ## Table of Contents

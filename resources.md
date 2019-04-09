@@ -1,8 +1,3 @@
----
-layout: default
-nav_order: 7
----
-
 ![Resources][banner]
 
 # Resources
