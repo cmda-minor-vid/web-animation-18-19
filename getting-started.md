@@ -1,6 +1,6 @@
-![Web animation - Getting Started][banner-guide]
-
 # Getting Started
+
+![Web animation - Getting Started][banner-guide]
 
 ## Table of Contents
 

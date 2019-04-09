@@ -1,6 +1,6 @@
-![Grading][banner]
-
 # Grading
+
+![Grading][banner]
 
 ## Table of Contents
 

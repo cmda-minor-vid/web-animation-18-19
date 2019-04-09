@@ -1,6 +1,6 @@
-![Web Animationn - Course 2018-2019][banner]
-
 # Course
+
+![Web Animationn - Course 2018-2019][banner]
 
 ## Table of Contents
 
