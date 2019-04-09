@@ -1,4 +1,6 @@
-# ![Resources][banner]
+![Resources][banner]
+
+# Resources
 
 ## Resources used in previous courses
 *   Duckett, Jon. _JavaScript & jQuery_. John Wiley & Sons, 2015 (**inleiding programmeren**)
@@ -28,7 +30,7 @@
 *   Cederholm, Dan. _[CSS3 for Web Designers](https://abookapart.com/products/css3-for-web-designers)_. A Book Apart, 2015
 *   Nabors, Rachel. _[Animation at Work](https://abookapart.com/products/animation-at-work)_. A Book Apart, 2015
 *   🆓 [CSS Animation Rocks](https://cssanimation.rocks/)
-    (**articles**) — CSS animation articles, tips and tutorials. 
+    (**articles**) — CSS animation articles, tips and tutorials.
 *   🆓 [CSS Tricks](https://css-tricks.com/)
     (**blog**) — CSS Tricks
 *   🆓 [CSS Almanac](https://css-tricks.com/almanac/)

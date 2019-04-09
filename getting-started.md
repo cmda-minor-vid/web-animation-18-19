@@ -1,4 +1,11 @@
-# ![Web animation - Getting Started][banner-guide]
+---
+nav_order: 2
+---
+
+
+![Web animation - Getting Started][banner-guide]
+
+# Getting Started
 
 ## Table of Contents
 

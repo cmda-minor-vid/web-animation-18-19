@@ -1,4 +1,11 @@
-# ![Web Animationn - Course 2018-2019][banner]
+---
+nav_order: 1
+---
+
+
+![Web Animationn - Course 2018-2019][banner]
+
+# Course
 
 ## Table of Contents
 
