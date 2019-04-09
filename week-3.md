@@ -1,3 +1,7 @@
+---
+nav_order: 6
+---
+
 # Week 3
 
 ## Table of Contents

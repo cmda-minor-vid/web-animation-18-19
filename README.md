@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Course
 nav_order: 1
 ---
 

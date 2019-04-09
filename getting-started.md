@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # Getting Started
 
 ![Web animation - Getting Started][banner-guide]

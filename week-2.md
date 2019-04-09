@@ -1,3 +1,7 @@
+---
+nav_order: 5
+---
+
 # Week 2
 
 ## Table of Contents
