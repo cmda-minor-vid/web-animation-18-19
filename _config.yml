@@ -1,0 +1,9 @@
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+aux_links:
+    "GitHub - Web Animation":
+      - "//github.com/cmda-minor-vid/web-animation-18-19"
+title: Web Animation
+description: Web Animation · 2018-2019 · Curriculum and Syllabus
+permalink: pretty
