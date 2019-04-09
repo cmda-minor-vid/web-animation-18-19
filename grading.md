@@ -1,4 +1,4 @@
-# Grading
+# ![Grading][banner]
 
 ## Table of Contents
 
@@ -7,12 +7,11 @@
 *   [Publishing](#publishing)
 *   [Plagiarism](#plagiarism)
 
-## Test (oral)
+## Test
 You've worked iteratively (_formative_) on your product and finish with an oral test (_summative_) where you **present** your final project. You will show you can create a quality project in which you apply the subject matter of this course and that you understand it. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals. This is an individual project so oral tests will be conducted 1 on 1.
 
 * [Learning goals](/#goals)
 * [Subgoals](/#goals)
-* [Competences](/#goals)
 
 > Check [rooster.hva.nl](https://rooster.hva.nl/) for info on actual date, time, and place.
 
@@ -83,7 +82,9 @@ Presenting your work is a skill all by itself, make sure you prepare yourself pr
   </tbody>
 </table>
 
-> Note: each of this rubric’s rows is **not cumulative**: you need to a >5,5 for each row to pass.
+> **Note:**
+> _you'll need a > 5.5 for each row to pass:_  you can't compensate between rows
+> _each of this rubric’s rows is cumulative:_ for example, to get a 5-6 on concept, you also need to have a 1-2 and 3-4.
 
 | Checklist                                                                  |
 | -------------------------------------------------------------------------- |
@@ -139,3 +140,5 @@ You are not allowed to simply use portions of someone else's work in your projec
 > More information on the [Student Copyright Information Point](https://www.amsterdamuas.com/library/services/copyright/students.html)
 
 The manner in which you cite your sources depends. The most widely used style at the AUAS is [APA](https://www.amsterdamuas.com/library/services/acknowledging-sources/apa-style/apa-style.html) of the American Psychological Association. Make sure you cite your sources in the repository or documentation of your project on GitHub.
+
+[banner]: https://cmda-minor-vid.github.io/web-animation-18-19/assets/banner-grading.svg

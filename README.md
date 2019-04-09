@@ -98,6 +98,7 @@ The below table breaks down the general time needed per week.
 | 1    |  9:20h | layout           | [lab][w1lab], [lecture][w1lec]                         |
 | 2    |  9:20h | animations       | [lab][w2lab], [lecture][w2lec]                         |
 | 3    |  9:20h | svg              | [lab][w3lab], [lecture][w3lec]                         |
+| 3    |  NaN   | assessment       | [assessment][grading]                                  |
 
 <details>
     <summary>Schedule</summary>
