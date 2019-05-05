@@ -52,10 +52,9 @@ If you have questions (in this order):
 *   [Ask for other students to help you][moodle]
 *   [Contact a lecturer][synopsis]
 
-[moodle]: https://moodle.cmd.hva.nl/course/index.php?categoryid=92
+[moodle]: https://moodle.cmd.hva.nl/course/view.php?id=575
 [examples]: examples
 [resources]: /resources.md
 [synopsis]: #synopsis
-[slack]: https://cmda-tech.slack.com/
 [banner-guide]: https://cmda-minor-vid.github.io/web-animation-18-19/assets/banner-guide.svg
-[issues]: https://github.com/cmda-bt/be-course-18-19/issues/new/choose
+[issues]: https://github.com/cmda-minor-vid/web-animation-18-19/issues/new/choose
