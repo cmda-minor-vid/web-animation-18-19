@@ -17,6 +17,8 @@
 
 ### Slides
 *  [**Lecture-2**][slides-lecture]
+*  [**Lab-2**][slides-lab]
+
 
 ### Theory
 * [**CSSanimation.rocks - Why animate?**][theory-animate]
@@ -64,3 +66,4 @@ Your artwork should respond to input from the user. Use transitions, animation, 
 [theory-principles]: https://cssanimation.rocks/principles/
 [theory-pseudo]: https://cssanimation.rocks/pseudo-elements/
 [slides-lecture]: https://docs.google.com/presentation/d/1omOAhcSYu-6LnS0EuP3soIYzFFxXc-hVRplX3fa201M/edit?usp=sharing
+[slides-lab]: https://docs.google.com/presentation/d/1ZYWYm6ewuIkG3vOXTHor1vKPKZoYGlGydCnYd3dmUfE/edit?usp=sharing
